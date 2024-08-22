@@ -1,0 +1,238 @@
+[
+    {
+        "type": "Cessna Citation Mustang",
+        "capacity": "4",
+        "price": "1800 €/h – 2400 €/h"
+    },
+    {
+        "type": "Cessna Citation Jet 1 & CJ1+",
+        "capacity": "4-5",
+        "price": "1900 €/h – 2500 €/h"
+    },
+    {
+        "type": "Embraer Phenom 100",
+        "capacity": "4",
+        "price": "2200 €/h – 2600 €/h"
+    },
+    {
+        "type": "Cessna Citation Jet 2 & CJ2+",
+        "capacity": "6-7",
+        "price": "2300 €/h – 2800 €/h"
+    },
+    {
+        "type": "Cessna Citation Jet 3",
+        "capacity": "7",
+        "price": "2500 €/h – 3000 €/h"
+    },
+    {
+    {
+        "type": "Cessna Citation Jet 4",
+        "capacity": "7-8",
+        "price": "2600 €/h – 3200 €/h"
+    },
+    {
+        "type": "Cessna Citation II & II/SP",
+        "capacity": "7-9",
+        "price": "1800 €/h – 2400 €/h"
+    },
+    {
+        "type": "Cessna Citation Bravo",
+        "capacity": "7-8",
+        "price": "2100 €/h – 2600 €/h"
+    },
+    {
+        "type": "Hawker Beechcraft 400XP",
+        "capacity": "6-7",
+        "price": "2300 €/h – 2800 €/h"
+    },
+    {
+        "type": "Embraer Phenom 300",
+        "capacity": "6",
+        "price": "2400 €/h – 2900 €/h"
+    },
+    {
+        "type": "Bombardier Learjet 40XR",
+        "capacity": "6",
+        "price": "2500 €/h – 3000 €/h"
+    },
+    {
+        "type": "Raytheon Beechcraft Premier IA",
+        "capacity": "6",
+        "price": "2200 €/h – 2700 €/h"
+    },
+    {
+        "type": "Piaggio Avanti P180 & Avanti II",
+        "capacity": "6-7",
+        "price": "2200 €/h – 2700 €/h"
+    },
+    {
+        "type": "Bombardier Learjet 45 & 45XR",
+        "capacity": "6-8",
+        "price": "2800 €/h – 3200 €/h"
+    },
+    {
+        "type": "Cessna Citation Excel",
+        "capacity": "7-8",
+        "price": "2800 €/h – 3200 €/h"
+    },
+    {
+        "type": "Cessna Citation XLS & XLS+",
+        "capacity": "7-8",
+        "price": "2900 €/h – 3700 €/h"
+    },
+    {
+        "type": "Cessna Citation Sovereign",
+        "capacity": "8-9",
+        "price": "3400 €/h – 4200 €/h"
+    },
+    {
+        "type": "Bombardier Learjet 60 & 60XR",
+        "capacity": "6-8",
+        "price": "3400 €/h – 4200 €/h"
+    },
+    {
+        "type": "Hawker 750, 800XP & 850XP",
+        "capacity": "8",
+        "price": "3500 €/h – 4100 €/h"
+    },
+    {
+        "type": "Hawker 900XP",
+        "capacity": "8",
+        "price": "3600 €/h – 4200 €/h"
+    },
+    {
+        "type": "Gulfstream G150",
+        "capacity": "6-7",
+        "price": "3500 €/h – 4000 €/h"
+    },
+    {
+        "type": "Cessna Citation X",
+        "capacity": "8-9",
+        "price": "3500 €/h – 4300 €/h"
+    },
+    {
+        "type": "Dassault Falcon 50 & 50EX",
+        "capacity": "9-10",
+        "price": "4000 €/h – 4600 €/h"
+    },
+    {
+        "type": "Gulfstream G200",
+        "capacity": "8-10",
+        "price": "4400 €/h – 4900 €/h"
+    },
+    {
+        "type": "Bombardier Challenger 300",
+        "capacity": "8-9",
+        "price": "4500 €/h – 5000 €/h"
+    },
+    {
+        "type": "Dassault Falcon 2000, 2000EX & 2000LX",
+        "capacity": "8-10",
+        "price": "5000 €/h – 6500 €/h"
+    },
+    {
+        "type": "Dassault Falcon 900B",
+        "capacity": "12-14",
+        "price": "5400 €/h – 6800 €/h"
+    },
+    {
+        "type": "Dassault Falcon 900EX, 900DX & 900LX",
+        "capacity": "12-14",
+        "price": "6600 €/h – 7500 €/h"
+    },
+    {
+        "type": "Bombardier Challenger 600 & 601",
+        "capacity": "9-14",
+        "price": "4700 €/h – 5700 €/h"
+    },
+    {
+        "type": "Bombardier Challenger 604 & 605",
+        "capacity": "9-12",
+        "price": "4900 €/h – 5500 €/h"
+    },
+    {
+        "type": "Bombardier Challenger 850",
+        "capacity": "12-15",
+        "price": "5300 €/h – 5900 €/h"
+    },
+    {
+        "type": "Embraer Legacy 600 & Legacy 650",
+        "capacity": "12-13",
+        "price": "4900 €/h – 5700 €/h"
+    },
+    {
+        "type": "Gulfstream G300",
+        "capacity": "10-13",
+        "price": "5500 €/h – 6400 €/h"
+    },
+    {
+        "type": "Dassault Falcon 7X",
+        "capacity": "13-15",
+        "price": "7000 €/h – 8000 €/h"
+    },
+    {
+        "type": "Bombardier Global Express",
+        "capacity": "12-15",
+        "price": "6500 €/h – 7500 €/h"
+    },
+    {
+        "type": "Bombardier Global XRS & Global 6000",
+        "capacity": "12-15",
+        "price": "7200 €/h – 8200 €/h"
+    },
+    {
+        "type": "Bombardier Global 5000",
+        "capacity": "9-14",
+        "price": "6900 €/h – 7900 €/h"
+    },
+    {
+        "type": "Gulfstream GIV-SP, G400 & G450",
+        "capacity": "12-14",
+        "price": "6500 €/h – 7800 €/h"
+    },
+    {
+        "type": "Gulfstream GV, G500 & G550",
+        "capacity": "12-16",
+        "price": "7000 €/h – 8500 €/h"
+    },
+    {
+        "type": "Embraer Lineage 1000",
+        "capacity": "17-19",
+        "price": "9000 €/h – 11000 €/h"
+    },
+    {
+        "type": "Airbus Corporate Jet (ACJ) A318 Elite",
+        "capacity": "18-30",
+        "price": "10000 €/h – 13000 €/h"
+    },
+    {
+        "type": "Airbus Corporate Jet (ACJ) A319",
+        "capacity": "18-30",
+        "price": "11000 €/h – 15000 €/h"
+    },
+    {
+        "type": "Boeing Business Jet BBJ1, BBJ2 & BBJ3",
+        "capacity": "19-50",
+        "price": "10000 €/h – 20000 €/h"
+    },
+    {
+        "type": "Beechcraft King Air 90 & 90GTx",
+        "capacity": "5-6",
+        "price": "1400 €/h – 1700 €/h"
+    },
+    {
+        "type": "Beechcraft King Air 200 & 200GT",
+        "capacity": "7-8",
+        "price": "1500 €/h – 1800 €/h"
+    },
+    {
+        "type": "Beechcraft King Air 350",
+        "capacity": "8-9",
+        "price": "1700 €/h – 2200 €/h"
+    },
+    {
+        "type": "Beechcraft 1900D",
+        "capacity": "18-19",
+        "price": "2600 €/h – 3400 €/h"
+    }
+]
